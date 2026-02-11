@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//day1
 int main() {
     int arr[20], n, x, pos, i;
 
